@@ -1,0 +1,14 @@
+<template>
+  <div>
+    <ul>
+      <li>
+        <a
+          href="https://www.baidu.com/"
+          target="_blank"
+        >
+          进入主页
+        </a>
+      </li>
+    </ul>
+  </div>
+</template>
