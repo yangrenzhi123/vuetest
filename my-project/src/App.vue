@@ -4,7 +4,7 @@
     <router-link to="/">首页</router-link>
     <router-link to="/baidu">百度</router-link>
     <router-link to="/about">关于我们</router-link>
-    <Login></Login>
+    <Login1></Login1>
     <router-view/>
   </div>
 </template>
@@ -14,7 +14,7 @@ import Login from '@/components/Login'
 export default {
   name: 'App',
   components: {
-    'Login': Login
+    'Login1': Login
   },
   data() {
     return {}
